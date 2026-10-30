@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you reuse this work, please cite it as below."
+title: "Du formulaire à la carte — Chindwin, Myanmar"
+abstract: >-
+  Presentation and temporal analysis of a transfer test of the Amazon Mining
+  Watch model to the Chindwin, Myanmar. Nine dry seasons (2017–18 to 2025–26)
+  show a stable mining core; the total patch count rises because the model also
+  flags bare agricultural fields to the west. The test is exploratory and does
+  not measure accuracy or causality.
+authors:
+  - family-names: "Victor"
+    alias: "VictorGit10"
+date-released: 2026-10-30
+url: "https://victorgit10.github.io/gruel-myanmar/"
+repository-code: "https://github.com/VictorGit10/gruel-myanmar"
+license: CC-BY-4.0
+keywords:
+  - Sentinel-2
+  - Amazon Mining Watch
+  - Myanmar
+  - Chindwin
+  - gold mining
+  - generative AI
+  - remote sensing

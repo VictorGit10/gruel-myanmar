@@ -1,0 +1,99 @@
+{
+ "2017-18": {
+  "nucleo": {
+   "solo exposto": 13,
+   "floresta": 9,
+   "agricultura": 4,
+   "gramínea": 4
+  },
+  "fora": {
+   "agricultura": 1
+  }
+ },
+ "2018-19": {
+  "nucleo": {
+   "solo exposto": 15,
+   "floresta": 8,
+   "gramínea": 6,
+   "agricultura": 3
+  },
+  "fora": {}
+ },
+ "2019-20": {
+  "nucleo": {
+   "solo exposto": 14,
+   "floresta": 10,
+   "gramínea": 6,
+   "agricultura": 4
+  },
+  "fora": {}
+ },
+ "2020-21": {
+  "nucleo": {
+   "solo exposto": 16,
+   "floresta": 10,
+   "gramínea": 7,
+   "agricultura": 4
+  },
+  "fora": {
+   "agricultura": 10,
+   "floresta": 1
+  }
+ },
+ "2021-22": {
+  "nucleo": {
+   "solo exposto": 17,
+   "floresta": 9,
+   "gramínea": 8,
+   "agricultura": 5
+  },
+  "fora": {}
+ },
+ "2022-23": {
+  "nucleo": {
+   "solo exposto": 11,
+   "gramínea": 7,
+   "floresta": 7,
+   "agricultura": 4
+  },
+  "fora": {}
+ },
+ "2023-24": {
+  "nucleo": {
+   "floresta": 14,
+   "solo exposto": 14,
+   "gramínea": 8,
+   "agricultura": 4
+  },
+  "fora": {
+   "agricultura": 18,
+   "floresta": 5
+  }
+ },
+ "2024-25": {
+  "nucleo": {
+   "floresta": 11,
+   "solo exposto": 11,
+   "gramínea": 8,
+   "agricultura": 5
+  },
+  "fora": {
+   "agricultura": 37,
+   "floresta": 15,
+   "solo exposto": 1
+  }
+ },
+ "2025-26": {
+  "nucleo": {
+   "floresta": 11,
+   "solo exposto": 8,
+   "gramínea": 6,
+   "agricultura": 4
+  },
+  "fora": {
+   "agricultura": 57,
+   "floresta": 27,
+   "solo exposto": 1
+  }
+ }
+}

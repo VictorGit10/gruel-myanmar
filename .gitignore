@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Data and model artefacts
+*.h5
+*.tif
+*.tiff
+*.npz
+*.geojson
+!data/*.geojson
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+credentials*.json
+*.pem
+*.key
